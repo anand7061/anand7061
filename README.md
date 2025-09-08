@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=650&lines=Hi+There+👋;I'm+Anand+Kumar;Civil+Engineering+Student+at+IIT+Guwahati;Aspiring+Data+Analyst+%7C+Web+Developer;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=650&lines=Hi+There+👋;I'm+Anand+Kumar;Civil+Engineering+Student+at+IIT+Guwahati;Aspiring+Data+Analyst+%7C+Data+Science;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 
 # 👋 Hi, I'm Anand Kumar  
 
 🎓 Final-year **Civil Engineering Student** at **IIT Guwahati**  
-💻 Transitioning into **Tech, Data, and Web Development**  
+💻 Transitioning into **Machine Learning, SQL, and Data Analytics**  
 🏋️‍♂️ Athlete | 🎯 Curious Learner | 🚀 Problem Solver  
 
 ---
@@ -17,7 +17,8 @@
 - 🛠 Skilled in **AutoCAD, Revit, STAAD.Pro, React.js, Node.js, MongoDB, SQL**  
 - 📊 Currently learning **Data Analysis & Visualization (Python, Pandas, Power BI, SQL)**  
 - 🏆 Active in **sports & fitness**, balancing academics and athletics  
-
+- ♟️ Passionate about **playing chess**, sharpening strategy and focus  
+- 🎨 Enjoy **painting and sketching**, expressing creativity through art  
 ---
 
 ## 🛠 Tech & Tools  
@@ -38,8 +39,8 @@
 
 ## 📌 Current Focus  
 - 🔍 Building **data-driven projects** (analysis + visualization)  
-- 🌐 Developing **full-stack web applications**  
-- 🧠 Practicing **DSA & problem-solving** on [LeetCode](https://leetcode.com/u/anandkumarchatra969/)  
+- 🛠 Skilled in **Machine Learning, SQL, Data Analytics, and Web Development**  
+- 🧠 Practicing **SQL & problem-solving** on [LeetCode](https://leetcode.com/u/anandkumarchatra969/)  
 
 ---
 
@@ -70,9 +71,9 @@
 
 ## 📂 Featured Projects  
 
-🔹 [Full-Stack Web App: College Admission Predictor](https://github.com/anand7061)  
-🔹 [Data Analytics Dashboard with Power BI](https://github.com/anand7061)  
-🔹 [Structural Engineering Design Models](https://github.com/anand7061)  
+🔹 [ movie-recommendation-system](https://anand7061-movie-recommendation-system-app-turxkt.streamlit.app/)  
+🔹 [SMS-Spam-Classifier](https://sms-spam-classifier-73uytas2eviu6rvgai9dtr.streamlit.app/)  
+🔹 [Airline-Flights-Dataset-Analysis---India ](https://github.com/anand7061/Airline-Flights-Dataset-Analysis---India.git)  
 
 ---
 
