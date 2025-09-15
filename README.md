@@ -62,7 +62,8 @@
 <!-- HACKERRANK-STATS:START -->
 
 <!-- HACKERRANK-STATS:END -->
-[![HackerRank Stats](https://github-readme-hackerrank.vercel.app/api/anandkumarchatr1)](https://www.hackerrank.com/profile/anandkumarchatr1)
+![Metrics](metrics.svg)
+
 ---
 
 ## 🧰 Frameworks & Libraries  
