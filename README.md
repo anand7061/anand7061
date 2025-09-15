@@ -55,6 +55,12 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-anand7061-2EA44F?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anand7061)
 
+## HackerRank
+
+<!-- HACKERRANK-STATS:START -->
+*(HackerRank stats will be updated here)*
+<!-- HACKERRANK-STATS:END -->
+
 
 ---
 ## HackerRank
