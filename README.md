@@ -59,7 +59,7 @@
 ---
 ## HackerRank
 
-[![HackerRank Stats](https://raw.githubusercontent.com/anand7061/anand7061/main/github-metrics.svg)](https://www.hackerrank.com/profile/anandkumarchatr1)
+[![Anand's HackerRank Stats](https://hackerrank-stats-card.vercel.app/api/v1?username=anandkumarchatr1)](https://www.hackerrank.com/anandkumarchatr1)
 
 ---
 ## HackerRank
