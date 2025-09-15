@@ -59,6 +59,11 @@
 ---
 ## HackerRank
 
+[![HackerRank Stats](https://raw.githubusercontent.com/anand7061/anand7061/main/github-metrics.svg)](https://www.hackerrank.com/profile/anandkumarchatr1)
+
+---
+## HackerRank
+
 <!-- HACKERRANK-STATS:START -->
 *(HackerRank stats will be updated here)*
 <!-- HACKERRANK-STATS:END -->
