@@ -63,7 +63,7 @@
 
 <!-- HACKERRANK-STATS:END -->
 ![Metrics](metrics.svg)
-
+[![HackerRank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhackerrank-badge.vercel.app%2Fapi%2Fanandkumarchatr1&label=Problem%20Solving&query=badges%5B0%5D.stars&color=2EC866&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anandkumarchatr1)
 ---
 
 ## 🧰 Frameworks & Libraries  
