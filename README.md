@@ -57,6 +57,13 @@
 
 
 ---
+## HackerRank
+
+<!-- HACKERRANK-STATS:START -->
+*(HackerRank stats will be updated here)*
+<!-- HACKERRANK-STATS:END -->
+
+---
 
 ## 🧰 Frameworks & Libraries  
 
