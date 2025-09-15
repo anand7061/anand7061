@@ -7,13 +7,13 @@ import re
 import sys
 from datetime import datetime
 
-USERNAME = "anand7061"   # Your HackerRank username
+USERNAME = "anandkumarchatr1"   # <-- your HackerRank username
 README_PATH = "README.md"
 START_MARK = "<!-- HACKERRANK-STATS:START -->"
 END_MARK = "<!-- HACKERRANK-STATS:END -->"
 
 def fetch_profile_html(username):
-    url = f"https://www.hackerrank.com/{username}"
+    url = f"https://www.hackerrank.com/profile/anandkumarchatr1"
     headers = {"User-Agent": "github-action-hackerrank-stats/1.0"}
     r = requests.get(url, headers=headers, timeout=15)
     r.raise_for_status()
@@ -53,7 +53,7 @@ def parse_stats(html):
 def build_markdown(stats):
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     lines = []
-    lines.append(f"**HackerRank profile — [{USERNAME}](https://www.hackerrank.com/{USERNAME})**  ")
+    lines.append(f"**HackerRank profile — [anandkumarchatr1](https://www.hackerrank.com/profile/anandkumarchatr1)**  ")
     if stats.get("score"):
         lines.append(f"- **Score / Rating:** {stats['score']}  ")
     if stats.get("badges") is not None:
