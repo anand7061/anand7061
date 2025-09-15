@@ -50,6 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anand7061&show_icons=true&theme=tokyonight&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand7061&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anandkumarchatr1&show_icons=true&theme=tokyonight&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandkumarchatr1&layout=compact&theme=tokyonight" height="160" />
   
 </p>
