@@ -52,9 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand7061&layout=compact&theme=tokyonight" height="160" />
   
 </p>
+
+## GitHub
+
 ![Metrics](https://github.com/anand7061/anand7061/blob/main/github-metrics.svg)
-
-
+---
 ## HackerRank
 
 <!-- HACKERRANK-STATS:START -->
