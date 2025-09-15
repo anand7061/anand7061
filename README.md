@@ -50,10 +50,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anand7061&show_icons=true&theme=tokyonight&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand7061&layout=compact&theme=tokyonight" height="160" />
-  ![Metrics](https://github.com/anand7061/anand7061/blob/main/github-metrics.svg)
+  
 </p>
+![Metrics](https://github.com/anand7061/anand7061/blob/main/github-metrics.svg)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-anand7061-2EA44F?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anand7061)
 
 ## HackerRank
 
@@ -61,7 +61,7 @@
 *(HackerRank stats will be updated here)*
 <!-- HACKERRANK-STATS:END -->
 
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-anand7061-2EA44F?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anand7061)
 ---
 [![HackerRank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhackerrank-badge.vercel.app%2Fapi%2Fanandkumarchatr1&label=Problem%20Solving&query=badges%5B0%5D.stars&color=2EC866&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anandkumarchatr1)
 ---
